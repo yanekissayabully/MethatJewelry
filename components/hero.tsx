@@ -102,7 +102,7 @@ export default function Hero() {
             className="relative aspect-[4/5] w-full overflow-hidden rounded-[999px] border border-[#d9b144]/30 bg-white shadow-[0_30px_80px_rgba(217,177,68,0.20)]"
           >
             <Image
-              src="/placeholder.svg?height=1400&width=1120"
+              src="/main.jpg"
               alt="Люксовое ювелирное изделие на светлом фоне"
               fill
               priority
